@@ -1,0 +1,2 @@
+Model,Precision,Recall,F1,Threshold
+GEO + Optimised Threshold,0.4874,0.8289,0.6139,0.1

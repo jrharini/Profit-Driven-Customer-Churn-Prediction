@@ -1,0 +1,5 @@
+Setup,Profit
+"Baseline (all features, t=0.5)",62520.35
+Threshold Optimisation Only,89066.38
+GEO Feature Selection Only (t=0.5),92767.51
+Full System (GEO + Optimised Threshold),123157.17

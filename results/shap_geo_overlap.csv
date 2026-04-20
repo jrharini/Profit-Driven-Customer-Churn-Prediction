@@ -1,0 +1,24 @@
+Feature,SHAP_Score,In_Top10_SHAP
+Contract_One year,0.0878218788588177,False
+Contract_Two year,1.357243409157423,True
+Dependents_Yes,0.8453801514208796,True
+DeviceProtection_No internet service,0.005366724540851545,False
+DeviceProtection_Yes,0.09985481789509863,True
+InternetService_No,0.04575954234416267,False
+MultipleLines_No phone service,0.15543407593194467,True
+MultipleLines_Yes,0.058625360239873976,False
+OnlineBackup_No internet service,0.058625360239873976,False
+OnlineBackup_Yes,0.22119120543906365,True
+OnlineSecurity_No internet service,0.058625360239873976,False
+OnlineSecurity_Yes,0.10163361260010982,True
+PaperlessBilling_Yes,0.058625360239873976,False
+PaymentMethod_Credit card (automatic),0.017825810361489284,False
+PaymentMethod_Electronic check,0.058625360239873976,False
+PaymentMethod_Mailed check,0.058625360239873976,False
+SeniorCitizen,0.05862536023987399,False
+StreamingMovies_No internet service,0.3199903292440374,True
+StreamingTV_No internet service,0.567152279445175,True
+TechSupport_No internet service,0.21273773793938022,True
+TotalCharges,0.0078036948668406,False
+gender_Male,0.2115412541321067,True
+tenure,0.029787050678354767,False
