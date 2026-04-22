@@ -1,4 +1,4 @@
-OVERVIEW:
+OVERVIEW:-
 This project builds a machine learning pipeline to predict customer churn with a focus on maximizing business profit rather than just improving model accuracy. It combines predictive modeling with profit-maximizing decision rules and uses Golden Eagle Optimization for feature selection and decision-threshold tuning.
 Problem Statement
 Traditional churn prediction models are built to maximize accuracy, but high accuracy does not always mean high profit. This project addresses that gap by shifting the focus from accuracy-based evaluation to profit-driven decision making.
