@@ -3,7 +3,7 @@ This project builds a machine learning pipeline to predict customer churn with a
 Problem Statement
 Traditional churn prediction models are built to maximize accuracy, but high accuracy does not always mean high profit. This project addresses that gap by shifting the focus from accuracy-based evaluation to profit-driven decision making.
 
-TECH STACK:
+TECH STACK:-
 Python
 Pandas & NumPy — data preprocessing and manipulation
 Scikit-learn — model building and evaluation
