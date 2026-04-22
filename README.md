@@ -10,7 +10,7 @@ Scikit-learn — model building and evaluation
 Streamlit — interactive web app for predictions
 Matplotlib / Seaborn — data visualization
 
-APPROACH:
+APPROACH:-
 Data Preprocessing — cleaned and prepared the customer dataset for modeling
 Feature Selection — applied Golden Eagle Optimization (GEO) to select the most relevant features
 Model Training — used Logistic Regression as the base classifier
