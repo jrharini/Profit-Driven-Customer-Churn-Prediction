@@ -18,8 +18,7 @@ Probability Calibration — validated prediction reliability using Brier Score a
 Decision Threshold Tuning — used GEO to find the optimal threshold that maximizes profit
 Profit Evaluation — compared profit outcomes against baseline accuracy-based models
 
-Results
-
+Results:
 Logistic Regression chosen as base classifier based on Brier Score validation
 Golden Eagle Optimization successfully reduced feature space and tuned decision threshold
 Profit-driven pipeline outperformed traditional accuracy-based models in financial impact
