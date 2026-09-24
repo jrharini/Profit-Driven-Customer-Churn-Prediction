@@ -1,4 +1,4 @@
-Profit-Driven-Customer-Churn-Prediction
+Customer Churn Analytics & Profit-Driven Decision Support
 
 OVERVIEW:-
 This project builds a machine learning pipeline to predict customer churn with a focus on maximizing business profit rather than just improving model accuracy. It combines predictive modeling with profit-maximizing decision rules and uses Golden Eagle Optimization for feature selection and decision-threshold tuning.
